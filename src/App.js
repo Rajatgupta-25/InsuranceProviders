@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {BrowserRouter , Route, Switch} from 'react-router-dom';
 import Home from './components/Home';
 import Agent from './components/Agent';
 import ContactUs from './components/ContactUs';
@@ -13,7 +13,7 @@ import Modal from './components/Modal';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <BrowserRouter basename="/insurance">
         <Switch>
           <Route exact path="/" component={Home}/>
           <Route exact path="/agent" component={Agent}/>
@@ -24,7 +24,7 @@ function App() {
           <Route exact path="/investments" component={Investments}/>
           <Route exact path="/call" component={Modal}/>
         </Switch>
-      </Router>
+      </BrowserRouter>
     </div>
   );
 }
