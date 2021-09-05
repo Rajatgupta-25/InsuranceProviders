@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/InsuranceProviders/static/css/main.b8fd1bdb.chunk.css",
+    "main.js": "/InsuranceProviders/static/js/main.4313fa52.chunk.js",
+    "main.js.map": "/InsuranceProviders/static/js/main.4313fa52.chunk.js.map",
+    "runtime-main.js": "/InsuranceProviders/static/js/runtime-main.8896b3b7.js",
+    "runtime-main.js.map": "/InsuranceProviders/static/js/runtime-main.8896b3b7.js.map",
+    "static/js/2.83b4c54e.chunk.js": "/InsuranceProviders/static/js/2.83b4c54e.chunk.js",
+    "static/js/2.83b4c54e.chunk.js.map": "/InsuranceProviders/static/js/2.83b4c54e.chunk.js.map",
+    "static/js/3.ead9d8b3.chunk.js": "/InsuranceProviders/static/js/3.ead9d8b3.chunk.js",
+    "static/js/3.ead9d8b3.chunk.js.map": "/InsuranceProviders/static/js/3.ead9d8b3.chunk.js.map",
+    "index.html": "/InsuranceProviders/index.html",
+    "static/css/main.b8fd1bdb.chunk.css.map": "/InsuranceProviders/static/css/main.b8fd1bdb.chunk.css.map",
+    "static/js/2.83b4c54e.chunk.js.LICENSE.txt": "/InsuranceProviders/static/js/2.83b4c54e.chunk.js.LICENSE.txt",
+    "static/media/Dominos_pizza_logo.png": "/InsuranceProviders/static/media/Dominos_pizza_logo.303eb25e.png",
+    "static/media/Samsung_Logo.png": "/InsuranceProviders/static/media/Samsung_Logo.53d2c53f.png",
+    "static/media/Swiggy-logo.jpg": "/InsuranceProviders/static/media/Swiggy-logo.a3d46a7f.jpg",
+    "static/media/Tata_Cliq_Logo.png": "/InsuranceProviders/static/media/Tata_Cliq_Logo.a9edbd14.png",
+    "static/media/aflac-voluntary-benefits-101.jpg": "/InsuranceProviders/static/media/aflac-voluntary-benefits-101.d5183834.jpg",
+    "static/media/amazon-pay.jpg": "/InsuranceProviders/static/media/amazon-pay.299b8c6e.jpg",
+    "static/media/bigbasket-logo.jpg": "/InsuranceProviders/static/media/bigbasket-logo.8873c88b.jpg",
+    "static/media/contact_us.png": "/InsuranceProviders/static/media/contact_us.7be0b248.png",
+    "static/media/features_insurance.jpg": "/InsuranceProviders/static/media/features_insurance.8ce73590.jpg",
+    "static/media/girl.jpg": "/InsuranceProviders/static/media/girl.2ba34b17.jpg",
+    "static/media/insurance.jpg": "/InsuranceProviders/static/media/insurance.41ffa462.jpg",
+    "static/media/insurance_types.jpg": "/InsuranceProviders/static/media/insurance_types.cbdb5b55.jpg",
+    "static/media/loannew.jpg": "/InsuranceProviders/static/media/loannew.c44bfaa8.jpg",
+    "static/media/mmt-logo.webp": "/InsuranceProviders/static/media/mmt-logo.311c279e.webp",
+    "static/media/new.png": "/InsuranceProviders/static/media/new.1cc37a04.png",
+    "static/media/praveen.jpg": "/InsuranceProviders/static/media/praveen.358ed9c1.jpg",
+    "static/media/rahul.jpg": "/InsuranceProviders/static/media/rahul.3a6d695b.jpg",
+    "static/media/vivo.png": "/InsuranceProviders/static/media/vivo.4605f8ad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8896b3b7.js",
+    "static/js/2.83b4c54e.chunk.js",
+    "static/css/main.b8fd1bdb.chunk.css",
+    "static/js/main.4313fa52.chunk.js"
+  ]
+}
