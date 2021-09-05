@@ -1,0 +1,34 @@
+.formBackground {
+    background-image: url('https://www.idfreshfood.com/wp-content/uploads/2017/09/contact_us_2.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 2%;
+}
+.control{
+	border-bottom:2px solid rgb(73, 137, 171);
+	border-top:none;
+	border-left:none;
+	border-right:none;
+}
+.button {
+    background-color: white;
+    color: steelblue;
+    border: 1px solid steelblue;
+    box-shadow: 4px 3px 4px grey;
+}
+.button:hover {
+    background-color: steelblue;
+    color: white;
+}
+.imageBack {
+    background-image: url('https://accessnsite.com/wp-content/uploads/2020/05/page-heading-background-contact-us.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-contact {
+    position: absolute;
+    top: 40%;
+    left: 15%;
+}

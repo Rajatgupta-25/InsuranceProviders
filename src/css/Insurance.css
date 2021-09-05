@@ -1,0 +1,33 @@
+.blue{
+    font-size:26px;
+    color: rgb(115, 174, 199);
+}
+.card-font {
+    font-size: 13px;
+}
+.card-font-new {
+    font-size: 12px;
+}
+.light-red {
+    color: rgb(247, 158, 131);
+}
+.yellow {
+    font-size: 34px;
+    color: rgb(250, 207, 50);
+}
+.light-blue {
+    color: rgb(120, 147, 207);
+}
+.green{
+    color: rgb(8, 166, 19);
+}
+.dollar {
+    color: rgb(62, 189, 176);
+}
+.doc {
+    color: rgb(63, 129, 143);
+}
+.imageCartoon_insurance {
+    width: 450px;
+    height: 350px;
+}
